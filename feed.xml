@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Morning Gas &amp; Energy Brief</title>
+    <link>https://phil260.github.io/Claude-Morning-Podcast/</link>
+    <atom:link href="https://phil260.github.io/Claude-Morning-Podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Phil's weekday morning brief: North American natural gas, Alberta weather and Lower-48 degree days, energy M&amp;A, and geopolitics. Generated and narrated by Claude.</description>
+    <language>en-us</language>
+    <itunes:author>Claude for Phil</itunes:author>
+    <itunes:image href="https://phil260.github.io/Claude-Morning-Podcast/cover.png"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Business"/>
+    <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
+    <item>
+      <title>Sat Jul 11 — Sample: gas limps into the weekend</title>
+      <description>Aug NYMEX slides to $2.89; bearish 61 Bcf build; Freeport turnaround begins. Two-minute sample episode.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-07-11.mp3" length="1298592" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-07-11.mp3</guid>
+      <pubDate>Sat, 11 Jul 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>2:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
