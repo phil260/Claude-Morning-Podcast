@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Tue Aug 4 — Gas steadies under two-eighty as heat returns</title>
+      <description>September gas holds ~$2.79 as record supply meets returning heat; Iran ceasefire whipsaw hits crude; OPEC+ adds 188k bpd for September; TTF still wears the war premium.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-04.mp3" length="7078706" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-08-04.mp3</guid>
+      <pubDate>Tue, 04 Aug 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mon Aug 3 — Gas at summer lows; oil dives as Iran strike called off</title>
       <description>September gas ~$2.76 after -15% July on record 110.7 Bcf/d output; Trump halts Iran strikes, WTI -5.6%, TTF -4%; OPEC+ final +188k bpd; Calgary heat to 31C.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-03.mp3" length="6959327" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-07-15.mp3</guid>
       <pubDate>Wed, 15 Jul 2026 06:00:00 -0600</pubDate>
       <itunes:duration>7:03</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Mon Jul 13 — Gas steadies above three as Freeport goes dark</title>
-      <description>Henry Hub holds ~.16 after a bearish storage miss; record heat dome heads east; ARC-Shell vote Tuesday; US-Iran skirmishes lift crude.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-07-13.mp3" length="6942608" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-07-13.mp3</guid>
-      <pubDate>Mon, 13 Jul 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
