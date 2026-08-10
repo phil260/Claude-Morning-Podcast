@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Mon Aug 10 — Gas heavy on record supply; Senate sanctions</title>
+      <description>Henry Hub mid-$2.60s after a 33 Bcf build; Freeport maintenance caps feedgas; Senate passes Russia-Iran sanctions; Hormuz deal chatter; CPI Wednesday.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-10.mp3" length="7200698" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-08-10.mp3</guid>
+      <pubDate>Mon, 10 Aug 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fri Aug 7 — Bigger storage build pins gas near lows</title>
       <description>EIA +33 Bcf; September Henry Hub ~$2.64 at multi-month lows; hot now but mid-August cooldown east; Qatar force majeure and Hormuz risk keep TTF bid; jobs day.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-07.mp3" length="7276453" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-07-22.mp3</guid>
       <pubDate>Wed, 22 Jul 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:28</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tue Jul 21 — Gas pinned at two-month low near $2.84</title>
-      <description>August NYMEX slips to ~$2.84 on record production, +181 Bcf storage surplus and Freeport outage; Calgary heat builds; Magnolia buys WildFire for $4.06B; TTF up 42% on month as Hormuz stays shut.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-07-21.mp3" length="7258690" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-07-21.mp3</guid>
-      <pubDate>Tue, 21 Jul 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
