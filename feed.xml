@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Wed Aug 12 — EIA cuts gas outlook, sees sub-$3 into winter</title>
+      <description>Henry Hub slips to $2.77 as record supply beats hot forecasts; STEO cuts outlook 50c; CPC turns hotter; Hormuz partial-reopening talks; CPI today.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-12.mp3" length="7367882" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-08-12.mp3</guid>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tue Aug 11 — Gas jumps most since May</title>
       <description>Hotter forecasts and record short-covering lift September gas ~4%; feedgas at one-month high; TTF +10% on Hormuz; EIA Thursday.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-11.mp3" length="7216372" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-07-24.mp3</guid>
       <pubDate>Fri, 24 Jul 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:20</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Thu Jul 23 — Gas tests $2.80 ahead of storage report</title>
-      <description>Henry Hub pinned near $2.80 into today&#x27;s EIA print; Freeport turnaround and record supply weigh; TTF tops €60 on the Iran war; Magnolia buys WildFire for ~$4B; Calgary heat in the low 30s.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-07-23.mp3" length="7208274" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-07-23.mp3</guid>
-      <pubDate>Thu, 23 Jul 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
