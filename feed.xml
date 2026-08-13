@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Thu Aug 13 — Gas rally tests $2.80 into storage day</title>
+      <description>September gas at $2.797, best close since Jul 24; EIA build seen ~28-31 Bcf; Hormuz talks deadlocked; TTF near €60.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-13.mp3" length="7427441" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-08-13.mp3</guid>
+      <pubDate>Thu, 13 Aug 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Wed Aug 12 — EIA cuts gas outlook, sees sub-$3 into winter</title>
       <description>Henry Hub slips to $2.77 as record supply beats hot forecasts; STEO cuts outlook 50c; CPC turns hotter; Hormuz partial-reopening talks; CPI today.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-12.mp3" length="7367882" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-07-27.mp3</guid>
       <pubDate>Mon, 27 Jul 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:05</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Fri Jul 24 — Gas flat as Brent tops $100 on Gulf escalation</title>
-      <description>EIA +32 Bcf; August gas ~$2.94; Brent breaks $100 as Iran retaliates and Houthis hit Saudi tankers; TTF at 4-month high; Calgary hot and smoky.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-07-24.mp3" length="7407065" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-07-24.mp3</guid>
-      <pubDate>Fri, 24 Jul 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
