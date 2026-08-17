@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Mon Aug 17 — Gas slips on record supply; TTF at three-week high</title>
+      <description>Sept Nymex gives back Friday&#x27;s rally amid record production and a 198 Bcf storage surplus; heat holds in the South; Iran talks stall and TTF tops 62 euros; Senate passes Russia sanctions bill.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-17.mp3" length="7087588" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-08-17.mp3</guid>
+      <pubDate>Mon, 17 Aug 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fri Aug 14 — Bearish storage miss knocks gas lower</title>
       <description>EIA +36 Bcf vs +31 expected; Henry Hub ~$2.73; heat holds through late August; Expand Energy buys Twin Eagle for $1.25B; TTF near €60 on Hormuz impasse.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-14.mp3" length="7263392" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-07-29.mp3</guid>
       <pubDate>Wed, 29 Jul 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:53</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tue Jul 28 — Gas hits 11-week low as Iran risk premium unwinds</title>
-      <description>Henry Hub -4.5% to ~$2.75 on US-Iran de-escalation; storage +183 Bcf over 5-yr avg; Freeport maintenance caps feedgas; Calgary hot through Saturday; Expand Energy buys Twin Eagle.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-07-28.mp3" length="7043180" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-07-28.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
