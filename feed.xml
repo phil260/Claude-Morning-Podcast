@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Tue Aug 18 — Gas slides on record supply</title>
+      <description>Henry Hub near 11-week lows on record output and storage surplus; late-August heat ridge builds; Hormuz crisis keeps TTF and oil elevated.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-18.mp3" length="7249547" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-08-18.mp3</guid>
+      <pubDate>Tue, 18 Aug 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mon Aug 17 — Gas slips on record supply; TTF at three-week high</title>
       <description>Sept Nymex gives back Friday&#x27;s rally amid record production and a 198 Bcf storage surplus; heat holds in the South; Iran talks stall and TTF tops 62 euros; Senate passes Russia sanctions bill.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-17.mp3" length="7087588" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-07-30.mp3</guid>
       <pubDate>Thu, 30 Jul 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:10</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Wed Jul 29 — Gas probes multiyear lows into August expiry</title>
-      <description>Henry Hub ~$2.69 into today&#x27;s August expiry on record supply and Freeport maintenance; Brent +5% on Saudi drone attacks; EIA storage and the Fed on deck.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-07-29.mp3" length="7134870" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-07-29.mp3</guid>
-      <pubDate>Wed, 29 Jul 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
