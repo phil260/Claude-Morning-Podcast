@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Wed Aug 19 — Texas heat sparks gas rebound</title>
+      <description>September gas rebounds 3.6% to .79 on Texas heat and record ERCOT demand risk; storage report Thursday; Hormuz talks stall.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-19.mp3" length="6931898" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-08-19.mp3</guid>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tue Aug 18 — Gas slides on record supply</title>
       <description>Henry Hub near 11-week lows on record output and storage surplus; late-August heat ridge builds; Hormuz crisis keeps TTF and oil elevated.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-18.mp3" length="7249547" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-07-31.mp3</guid>
       <pubDate>Fri, 31 Jul 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:29</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Thu Jul 30 — Gas near lows as Mideast war premium builds</title>
-      <description>September takes over near $2.71 with record supply and a 6.4% storage surplus; overnight US strikes on Iran lift oil and the winter strip; EIA storage due; Calgary hits 33 Saturday.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-07-30.mp3" length="7301531" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-07-30.mp3</guid>
-      <pubDate>Thu, 30 Jul 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
