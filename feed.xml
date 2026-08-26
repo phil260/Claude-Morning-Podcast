@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Wed Aug 26 — Gas firms as ARC-Shell clears final hurdle</title>
+      <description>September gas settles at $2.81 into expiry; ARC-Shell gets Investment Canada approval, closing ~Sep 2; oil sheds war premium; storage report Thursday.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-26.mp3" length="7029596" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-08-26.mp3</guid>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tue Aug 25 — Heat props up Henry Hub near $2.80</title>
       <description>Henry Hub firm on late-summer heat and returning LNG feedgas; storage build undershoots; TTF at 2023 highs on Hormuz; Continental buys FireBird II; Calgary hits 29C midweek.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-25.mp3" length="7517563" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-08-06.mp3</guid>
       <pubDate>Thu, 06 Aug 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:21</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Wed Aug 5 — Three-month gas low; Iran hopes sink oil</title>
-      <description>September gas near $2.69 on record supply and Freeport outage; Brent under $79 on US-Iran deal hopes; EIA storage Thursday.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-05.mp3" length="7327914" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-08-05.mp3</guid>
-      <pubDate>Wed, 05 Aug 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
