@@ -1,0 +1,5 @@
+## 2026-08-27 (Thu) — DEEP GAS
+- Top story: HH firms toward $2.90 into storage day; expectations ~28 Bcf (KilowattLogic).
+- Covered: HH settle $2.85 +2.9% Wed (Trading Economics), overnight $2.90 (FXEmpire); record L48 production 111.4 Bcf/d; storage recap (16 vs 19 exp vs 29 5yr; 3,169 Bcf, +6.2% vs 5yr, -0.9% y/y); LNG feedgas ~17.2 Bcf/d soft on maintenance (Freeport per NGI headline, Vortexa Atlantic basin); 34 cargoes wk ending Aug 19 (LNG Global); technicals 2.875/2.93 res, 2.64/2.62 sup; Sep expiry/Oct roll + seasonality; TTF >€66 on Hormuz fears, EU storage 63% vs 79% avg (Euronews), Goldman €100 Dec scenario; ARC-Shell one clause (resolved, covered Aug 26); Expion minor deal; Calgary 28C sunny.
+- Gaps/failed sources: NGI article pages + AECO daily snapshot 405'd (no fresh AECO print — characterized honestly); GDSR tccustomerexpress.com unreachable (curl 000, both dates) — segment skipped; gasalberta.com charts render client-side, no numbers.
+- Note: runlog.md did not exist in repo before this run — created today. Prior-episode continuity taken from feed.xml titles.
