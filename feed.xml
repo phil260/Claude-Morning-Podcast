@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Fri Aug 28 — Nvidia blowout; gas at one-month high</title>
+      <description>Nvidia&#x27;s blowout quarter lifts Wall Street; bullish 15 Bcf storage surprise puts Henry Hub at a one-month high; Warsh speaks at Jackson Hole; tariff stand-off and Alberta market redesign.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-28.mp3" length="7018625" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-08-28.mp3</guid>
+      <pubDate>Fri, 28 Aug 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thu Aug 27 — Gas presses $2.90 into storage day</title>
       <description>Henry Hub rallies on early-September heat; ~28 Bcf build expected; LNG maintenance season; TTF surges past €66 on Hormuz fears.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-27.mp3" length="6978919" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-08-10.mp3</guid>
       <pubDate>Mon, 10 Aug 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Fri Aug 7 — Bigger storage build pins gas near lows</title>
-      <description>EIA +33 Bcf; September Henry Hub ~$2.64 at multi-month lows; hot now but mid-August cooldown east; Qatar force majeure and Hormuz risk keep TTF bid; jobs day.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-07.mp3" length="7276453" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-08-07.mp3</guid>
-      <pubDate>Fri, 07 Aug 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
