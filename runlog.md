@@ -13,3 +13,10 @@
 - Local: AESO restructured-market milestone; TD investment supercycle call; Enbridge–Salt Creek Permian deal; Irving $235M turnaround; Calgary smoke.
 - Sources that worked: tradingeconomics (HH + storage), fool.com, bnnbloomberg.ca, kiplinger.com, energynow.ca, theweathernetwork Calgary. Failed: NGI AECO snapshot (405), eia.gov weekly (stale/discontinued page), nbcnews (robots), alberta economic dashboard (client-side render).
 - Episode: 2,057 words → 11:42. Broad-day sources validated: bnnbloomberg, kiplinger, energynow, fool.
+
+## 2026-08-31 (Mon) — DEEP GAS
+- Top story: HH holds near five-week highs ($2.88 Fri, Oct prompt) after third straight lean build; storage surplus eroded to +5.5% vs 5yr.
+- Covered: Friday settle $2.88 −1.15% but +5.8% on August (Trading Economics); storage deep-dive arc 6.7%→6.2%→5.5% (+15 Bcf vs 20 exp vs 33 avg; 3,184 Bcf; −30 y/y; regional: East +19/Midwest +18/South Central salt −20, KilowattLogic); record production 111.4 Bcf/d + Haynesville/Permian structural para; feedgas ~17 Bcf/d, Freeport return watch (FXEmpire, late-Aug end of turnaround); AECO: NO fresh print 4th run running — characterized structurally (egress, LNG Canada ramp); end-of-season refill math para; Sep 1-10 above-normal temps nearly nationwide, south hot to very hot (natgasweather); Calgary sunny 21-24C, Wed t-storm risk (TWN); Ukraine hit Kirishi refinery again Aug 29-30 (6th strike, Euromaidan Press), Russian gasoline records one clause; M&A quiet weekend, ARC/Shell regulatory one clause; macro line: month-end + Friday US jobs report.
+- Macro thread: n/a (deep day).
+- Gaps/failed sources: GDSR tccustomerexpress CONNECT 403 (proxy blocks host) — skipped silently; NGI AECO snapshot + article 405; CPC pages stale cache; NGI homepage served stale/cached winter content — discarded; no Sep 3 storage consensus sourced (framed honestly).
+- Episode: 2,104 words → 12:02.

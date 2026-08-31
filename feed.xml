@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Mon Aug 31 — Storage surplus shrinks, gas holds five-week highs</title>
+      <description>Deep gas: .88 Henry Hub, third straight lean build cuts surplus to 5.5%, Freeport return watch, warm September start.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-31.mp3" length="7223947" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-08-31.mp3</guid>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fri Aug 28 — Nvidia blowout; gas at one-month high</title>
       <description>Nvidia&#x27;s blowout quarter lifts Wall Street; bullish 15 Bcf storage surprise puts Henry Hub at a one-month high; Warsh speaks at Jackson Hole; tariff stand-off and Alberta market redesign.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-28.mp3" length="7018625" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-08-11.mp3</guid>
       <pubDate>Tue, 11 Aug 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:01</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Mon Aug 10 — Gas heavy on record supply; Senate sanctions</title>
-      <description>Henry Hub mid-$2.60s after a 33 Bcf build; Freeport maintenance caps feedgas; Senate passes Russia-Iran sanctions; Hormuz deal chatter; CPI Wednesday.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-10.mp3" length="7200698" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-08-10.mp3</guid>
-      <pubDate>Mon, 10 Aug 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
