@@ -20,3 +20,13 @@
 - Macro thread: n/a (deep day).
 - Gaps/failed sources: GDSR tccustomerexpress CONNECT 403 (proxy blocks host) — skipped silently; NGI AECO snapshot + article 405; CPC pages stale cache; NGI homepage served stale/cached winter content — discarded; no Sep 3 storage consensus sourced (framed honestly).
 - Episode: 2,104 words → 12:02.
+
+## 2026-09-01 (Tue) — BROAD
+- Top story: US–Iran war reignites — Larak Island strikes, Iranian missiles at Jordan bases, two tankers hit on southern Hormuz corridor Mon evening; Brent >$92, Sept Fed hike odds ~62%.
+- Gas slot (~330w): HH Oct ~$2.91 −0.7% overnight, near 5-wk highs (South/East heat to mid-Sep, Trading Economics); NEW: Freeport maintenance complete/resuming, feedgas strengthening; record Aug production 111.5 Bcf/d (vs Jul 110.7); lean builds continue, Thu print ahead; AECO no print 5th run running (NGI 405, DOB paywalled) — one honest clause.
+- Macro: Mon close S&P −0.33% 7,686 / Dow −0.70% 53,186 / Nasdaq −0.12% 26,371 (winning August capped); VIX +5.9% 15.28; Apple Cook→Ternus handover; MSTR +4.4%; TSX −0.78% (materials/RE/IT down, energy firm: VET +2.4/PXT +2.3; BBD −6, ERO/LUN −4.5); CAD ~72¢; overnight Dow futs sliding, WTI $87.75 +2.3%, Brent $92.04 +1.7%; long yields elevated despite buybacks.
+- Macro thread: oil shock meets hawkish Fed — Warsh JH → hike odds 62% from 40%, crude +30% vs pre-war, stagflation setup, watch 2yr. (Distinct from Aug 28 Warsh-credibility thread but adjacent — pick a non-Fed thread next.)
+- Geopolitics: Larak strikes Sun (IRGC rockets+sea mines, 2 dead); 8 missiles at Jordan intercepted, drone at UAE; tankers Sidr + Senegal Prosperity hit near Khasab; Trump Kharg AI video; Pezeshkian June-MOU offer vs Bessent demands; Hormuz traffic below normal; Ukraine/Russia: Afipsky (~180kb/d), rationing spreads, diesel export limits extended, first-ever India gasoline cargo to Russia; TTF one clause.
+- Local: Oct 19 referendum 7 wks out (Smith Alberta Day, racism concerns per Global News, Smith–US trade meeting); budget surplus vs royalty windfall debate; Calgary AI top-50 pedestrian intersections; back-to-school week. Calgary wx 26/11 sun-cloud, Wed eve showers, cooling to 20-21.
+- Gaps/failed sources: NGI AECO snapshot 405, DOB paywalled (AECO absent again); cbc.ca/calgary served ancient COVID-era cache — discarded; cnbc.com 403; first pubrepo clone attempt 502 (retry OK).
+- Episode: 2,041 words → 11:59.
