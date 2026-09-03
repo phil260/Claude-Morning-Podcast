@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Thu Sep 3 — Gas at 8-week high into storage day</title>
+      <description>Henry Hub near .94 into the EIA print (~28 Bcf expected); feedgas rebounds past 18 Bcf/d; Hormuz keeps Brent near 7; OPEC+ Sunday.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-03.mp3" length="7115800" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-09-03.mp3</guid>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Wed Sep 2 — US-Iran war day two, Brent near 96</title>
       <description>US strikes IRGC targets, Iran hits back at Jordan and Bahrain; Brent ~$96, 10-yr at post-2023 high; TTF +130% y/y; gas chops at $2.95; HH storage print Thursday.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-02.mp3" length="7102216" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-08-14.mp3</guid>
       <pubDate>Fri, 14 Aug 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:06</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Thu Aug 13 — Gas rally tests $2.80 into storage day</title>
-      <description>September gas at $2.797, best close since Jul 24; EIA build seen ~28-31 Bcf; Hormuz talks deadlocked; TTF near €60.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-13.mp3" length="7427441" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-08-13.mp3</guid>
-      <pubDate>Thu, 13 Aug 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
