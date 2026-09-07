@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Mon Sep 7 — Jobs shock puts Fed hike in play</title>
+      <description>Labour Day broad brief: US +162K jobs vs Canada −42K, Fed hike coin flip, OPEC+ holds, gas near , Calgary rain.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-07.mp3" length="6979963" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-09-07.mp3</guid>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fri Sep 4 — Jobs day meets a coin-flip Fed</title>
       <description>August payrolls at 8:30 ET with Fed odds at 50/50 after Waller; stocks&#x27; best day in a month; oil&#x27;s biggest weekly gain since July; gas +30 Bcf in-line, October&#x27;s $3 breakout fizzles.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-04.mp3" length="6952274" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-08-18.mp3</guid>
       <pubDate>Tue, 18 Aug 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:04</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Mon Aug 17 — Gas slips on record supply; TTF at three-week high</title>
-      <description>Sept Nymex gives back Friday&#x27;s rally amid record production and a 198 Bcf storage surplus; heat holds in the South; Iran talks stall and TTF tops 62 euros; Senate passes Russia sanctions bill.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-17.mp3" length="7087588" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-08-17.mp3</guid>
-      <pubDate>Mon, 17 Aug 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
