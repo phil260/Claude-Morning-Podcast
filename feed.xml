@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Tue Sep 8 — Gas coiled under $3 as TTF hits 3.5-year high</title>
+      <description>Holiday reopen: HH flat near 2-month highs; storage math ahead of Thursday; TTF record run, WTI ~$94 on Jazan strike and Hormuz corridor talk.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-08.mp3" length="7197825" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-09-08.mp3</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mon Sep 7 — Jobs shock puts Fed hike in play</title>
       <description>Labour Day broad brief: US +162K jobs vs Canada −42K, Fed hike coin flip, OPEC+ holds, gas near , Calgary rain.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-07.mp3" length="6979963" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-08-19.mp3</guid>
       <pubDate>Wed, 19 Aug 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:33</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tue Aug 18 — Gas slides on record supply</title>
-      <description>Henry Hub near 11-week lows on record output and storage surplus; late-August heat ridge builds; Hormuz crisis keeps TTF and oil elevated.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-18.mp3" length="7249547" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-08-18.mp3</guid>
-      <pubDate>Tue, 18 Aug 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
