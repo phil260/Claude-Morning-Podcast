@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Wed Sep 9 — Oil at the door of one hundred as US-Iran tanker war escalates</title>
+      <description>Brent tops $100 on US strikes on Iranian tankers; stocks fall a third day; Canada&#x27;s tariffs take effect; gas quiet under $2.90 with TTF at new highs; Calgary budget leak and Green Line route pick.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-09.mp3" length="7044747" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-09-09.mp3</guid>
+      <pubDate>Wed, 09 Sep 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tue Sep 8 — Gas coiled under $3 as TTF hits 3.5-year high</title>
       <description>Holiday reopen: HH flat near 2-month highs; storage math ahead of Thursday; TTF record run, WTI ~$94 on Jazan strike and Hormuz corridor talk.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-08.mp3" length="7197825" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-08-20.mp3</guid>
       <pubDate>Thu, 20 Aug 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:50</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Wed Aug 19 — Texas heat sparks gas rebound</title>
-      <description>September gas rebounds 3.6% to .79 on Texas heat and record ERCOT demand risk; storage report Thursday; Hormuz talks stall.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-19.mp3" length="6931898" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-08-19.mp3</guid>
-      <pubDate>Wed, 19 Aug 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
