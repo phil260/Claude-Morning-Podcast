@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Thu Sep 10 — Gas breaks down into storage day</title>
+      <description>Henry Hub slides 6% on cooler 10-15 day models into an EIA print with no consensus; TTF near 4-year highs, Brent above $100 as the tanker war widens.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-10.mp3" length="7063555" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-09-10.mp3</guid>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Wed Sep 9 — Oil at the door of one hundred as US-Iran tanker war escalates</title>
       <description>Brent tops $100 on US strikes on Iranian tankers; stocks fall a third day; Canada&#x27;s tariffs take effect; gas quiet under $2.90 with TTF at new highs; Calgary budget leak and Green Line route pick.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-09.mp3" length="7044747" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-08-21.mp3</guid>
       <pubDate>Fri, 21 Aug 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Thu Aug 20 — Gas jumps 3.5% on heat; storage day</title>
-      <description>September NYMEX settles .87, highest since July 24; wide EIA storage estimate spread; Keystone XL chatter in US-Canada trade talks; Brent above 3.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-20.mp3" length="7103784" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-08-20.mp3</guid>
-      <pubDate>Thu, 20 Aug 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
