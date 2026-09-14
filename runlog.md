@@ -96,3 +96,19 @@
 - Gaps/failed: **WebSearch server-error ALL RUN** (every query) — leaned on direct WebFetch of proven URLs; energynow M&A 404; NGI 405; fxempire article deep-link 404 (used forecast index); GDSR empty response ×2; no EIA consensus published anywhere sourceable.
 - Worked: TE ×3 (NG/TTF/crude), investing.com (NG quote + storage calendar), fxempire index, kilowattlogic, natgasweather, CPC fxus06, TWN Calgary (fresh), aljazeera news hub.
 - Episode: 2,174 words → 11:46. (First synth 2,069w → 11:12, under floor — note: voice running ~184 wpm lately vs 169 calibration; aim 2,150–2,200 on deep days.)
+
+## 2026-09-11 (Fri) — BROAD [recovered entry — episode produced but PUSH FAILED; delivered in-chat only, never reached the feed]
+- Top story: CPI day (cons 3.4% y/y, core 2.4) after hot PPI 5.4% y/y; WTI $100.10/Brent $105.37 Thu (first $100 since May), 10-yr 4.954%, hike odds ~62–70% for Sep 15-16 FOMC; Fri futures +0.5%.
+- Gas slot: EIA +40 vs +31 exp (consensus finally surfaced with the print), Oct HH 3-wk low ~$2.80, surplus 4.8%, prod 112.9; AECO no print 13th run.
+- Macro thread: bond-market repricing (10-yr 2023 highs; stocks+bonds+gold down together) — next: credit spreads or positioning.
+- Geo: Hormuz traffic falling; Ukraine deepest strike — Novy Urengoy/Purovsky gas plants, Yamalo-Nenets; TTF >€80 (highest since 2023), EU storage 65% vs 80% LY. Local: Enbridge–Tallgrass US$2.55B; Green Line full-council vote pending. Weather: TWN fresh — Calgary 12/4, wknd ~11, 20 by next Thu.
+- Failed: git push ALL routes (proxy: repo not in session's authorized set — see project doc claude/publish-failure-2026-09-11.md). Episode 12:05, 2,161 words.
+
+## 2026-09-14 (Mon) — DEEP GAS
+- Top story: HH rebound — Oct $2.89 +2.5% overnight (Investing.com; Fri close $2.82, 3-wk low, wk −5% from $2.98) on feedgas 19.6 Bcf/d (strongest since late Apr; Freeport+Corpus back from maint) + weekend CPC flip warmer (Sep 13 issue: 6-10 near/above normal much of CONUS, 8-14 above normal most of L48, 50-70% middle third, NAO transition). Reclaimed $2.83; $2.90/$3.00 res, expiry Sep 28 noted.
+- Covered: week-arc recap; storage ledger 3,254 Bcf, +148/+4.8% vs 5-yr, +40 build < 5-yr avg +52, lean-build intact, injection-math clause (~8 wks, EIA ~3,985 path); prod 112.9 record = bear anchor; feedgas step-up arc (17 Aug → 18s → 19.6) + Golden Pass/Plaquemines capacity-ceiling para; Ras Laffan capacity-loss clause (attributed to Investing.com note, hedged); TTF >€80/EU 65% continuity clause; AECO no print 14TH run (NGI 405) BUT NGI Precision CEO headline "AECO firming on LNG Canada + winter" used directionally; GDSR curl empty ×2 — skipped silently; Fed-dollar-industrial-demand para.
+- Weather: south hot upper-80s–100s thru ~Sep 16 (natgasweather Sep 10), TDDs above normal into late Sep; Calgary showery Mon 16/Tue 11 then sunny 18-20-20, wknd 21 (TWN fresh).
+- Sweep: PRNewswire "at $100 oil deal flow → pipelines + PDP" theme; Enbridge–Tallgrass one clause; ARC/Shell clause; Russia 13 strikes/wk on Ukrenergo facilities (PBS/AP) + Kyiv refining hub/Black Sea port (Bloomberg headline); Hormuz quiet weekend noted; Yamalo-Nenets thread flagged. Macro: CPI in line 0.4/3.4, core 0.3 hot; Dow +509 to 52,657, S&P 7,656; 10-yr 4.975% (Oct-2023 high), 2-yr 4.65; ~90% hike odds Wed FOMC (Investrade); Warsh "put up or shut up" (Bloomberg headline).
+- Watch list: FOMC Wed noon MT; model runs on late-Sep ridge; EIA Thu (wk end Sep 11, consensus watch); feedgas 19-handle hold; AECO print hunt.
+- Failed: NGI article + CDNNOVA snapshot 405; GDSR empty ×2; TE TTF news link served a 2025 article (stale ID — don't trust TE /news/ IDs). Worked: Investing.com NG quote (fresh, rich), TE NG, natgasweather, CPC fxus06 (fresh Sep 13), TWN Calgary, Investrade Sep 11 review (CPI/yields/odds), WebSearch fine all run.
+- Episode: 2,152 words → 12:11. Run started ~T+21 (late fire); research compressed, published ~T+40.
