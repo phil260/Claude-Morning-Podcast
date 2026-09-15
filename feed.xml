@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Tue Sep 15 — Fed opens meeting, first hike in three years looms</title>
+      <description>93% odds of a 25bp hike Wednesday; 10-year at 5%; Brent $106 with Saudi East-West pipeline offline; gas .89 on 19.6 Bcf/d feedgas; NDP upset in Calgary-Shaw.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-15.mp3" length="7171441" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-09-15.mp3</guid>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mon Sep 14 — Gas rebounds on record feedgas, warm shift</title>
       <description>Oct Henry Hub +2.5% to $2.89 on 19.6 Bcf/d feedgas and a warmer CPC outlook; Fed hike week, ~90% odds.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-14.mp3" length="7313547" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-08-26.mp3</guid>
       <pubDate>Wed, 26 Aug 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:42</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tue Aug 25 — Heat props up Henry Hub near $2.80</title>
-      <description>Henry Hub firm on late-summer heat and returning LNG feedgas; storage build undershoots; TTF at 2023 highs on Hormuz; Continental buys FireBird II; Calgary hits 29C midweek.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-25.mp3" length="7517563" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-08-25.mp3</guid>
-      <pubDate>Tue, 25 Aug 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
