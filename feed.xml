@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Thu Sep 17 — Lean storage build expected; Fed hikes</title>
+      <description>Storage day: consensus +47-49 Bcf vs 74 five-year avg; Henry Hub coils under $2.90; production slides; Fed&#x27;s first hike since 2023.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-17.mp3" length="7546037" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-09-17.mp3</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Wed Sep 16 — Fed decision day: first hike in three years expected</title>
       <description>Fed poised for 25bp hike at noon MT with the 10-year at 5%; WTI above $103 as Saudi East-West stays down; gas holds $2.91; WCS discount widens on Joliet outage.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-16.mp3" length="7224992" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-08-28.mp3</guid>
       <pubDate>Fri, 28 Aug 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:41</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Thu Aug 27 — Gas presses $2.90 into storage day</title>
-      <description>Henry Hub rallies on early-September heat; ~28 Bcf build expected; LNG maintenance season; TTF surges past €66 on Hormuz fears.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-27.mp3" length="6978919" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-08-27.mp3</guid>
-      <pubDate>Thu, 27 Aug 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
