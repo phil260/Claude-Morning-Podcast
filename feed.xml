@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Fri Sep 18 — Stocks rally after Fed hike; lean 44 Bcf build</title>
+      <description>Post-hike relief rally, +44 Bcf storage vs 74 avg, Cameron LNG maintenance, Saudi pipeline repair, Calgary&#x27;s $130M surplus vs 20% tax ask.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-18.mp3" length="7399751" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-09-18.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thu Sep 17 — Lean storage build expected; Fed hikes</title>
       <description>Storage day: consensus +47-49 Bcf vs 74 five-year avg; Henry Hub coils under $2.90; production slides; Fed&#x27;s first hike since 2023.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-17.mp3" length="7546037" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-08-31.mp3</guid>
       <pubDate>Mon, 31 Aug 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:02</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Fri Aug 28 — Nvidia blowout; gas at one-month high</title>
-      <description>Nvidia&#x27;s blowout quarter lifts Wall Street; bullish 15 Bcf storage surprise puts Henry Hub at a one-month high; Warsh speaks at Jackson Hole; tariff stand-off and Alberta market redesign.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-08-28.mp3" length="7018625" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-08-28.mp3</guid>
-      <pubDate>Fri, 28 Aug 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
