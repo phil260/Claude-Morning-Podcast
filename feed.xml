@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Tue Sep 22 — Stocks at records as oil plunges</title>
+      <description>Nasdaq record on Meta&#x27;s AI surge; WTI drops to low 0s on Saudi supply rebound; gas under .85; BoC October hike odds ~60%.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-22.mp3" length="7118151" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-09-22.mp3</guid>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mon Sep 21 — Gas holds $2.90 as oil exhales under $100</title>
       <description>Deep gas: HH ~$2.91 as LNG pull blunts cooler forecasts; storage surplus narrows to ~118 Bcf; record 113.1 Bcf/d supply; WTI under $100, TTF below EUR 80 on de-escalation into UNGA week.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-21.mp3" length="7331833" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-09-02.mp3</guid>
       <pubDate>Wed, 02 Sep 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:50</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tue Sep 1 — Hormuz tankers hit, Brent tops $92</title>
-      <description>US-Iran escalation and a hawkish Fed open September; gas steady near five-week highs as Freeport returns.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-01.mp3" length="7186853" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-09-01.mp3</guid>
-      <pubDate>Tue, 01 Sep 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
