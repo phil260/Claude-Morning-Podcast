@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Thu Sep 24 — Storage day with Henry Hub at 11-week highs</title>
+      <description>HH ~$3.05 into a consensus +53 Bcf EIA print; lean-build streak, LNG ~18 Bcf/d, AECO direction, Calgary&#x27;s first furnace mornings.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-24.mp3" length="7440502" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-09-24.mp3</guid>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Wed Sep 23 — Gas back above three dollars</title>
       <description>Henry Hub tops $3 for the first time since July; Nasdaq record, oil&#x27;s five-day slide on UNGA diplomacy; Alberta suspends fuel tax; Green Line downtown route confirmed.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-23.mp3" length="7286902" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-09-04.mp3</guid>
       <pubDate>Fri, 04 Sep 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Thu Sep 3 — Gas at 8-week high into storage day</title>
-      <description>Henry Hub near .94 into the EIA print (~28 Bcf expected); feedgas rebounds past 18 Bcf/d; Hormuz keeps Brent near 7; OPEC+ Sunday.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-03.mp3" length="7115800" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-09-03.mp3</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
