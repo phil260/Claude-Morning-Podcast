@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Fri Sep 25 — Gas spikes on Appalachian force majeure</title>
+      <description>Mountaineer Express force majeure drives biggest one-day gas gain since January; 10-yr at 5.11%; US-Iran phased-deal talk eases oil.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-25.mp3" length="7274625" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-09-25.mp3</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thu Sep 24 — Storage day with Henry Hub at 11-week highs</title>
       <description>HH ~$3.05 into a consensus +53 Bcf EIA print; lean-build streak, LNG ~18 Bcf/d, AECO direction, Calgary&#x27;s first furnace mornings.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-24.mp3" length="7440502" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-09-07.mp3</guid>
       <pubDate>Mon, 07 Sep 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:37</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Fri Sep 4 — Jobs day meets a coin-flip Fed</title>
-      <description>August payrolls at 8:30 ET with Fed odds at 50/50 after Waller; stocks&#x27; best day in a month; oil&#x27;s biggest weekly gain since July; gas +30 Bcf in-line, October&#x27;s $3 breakout fizzles.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-04.mp3" length="6952274" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-09-04.mp3</guid>
-      <pubDate>Fri, 04 Sep 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
