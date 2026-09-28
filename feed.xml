@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Mon Sep 28 — Pipeline fix unwinds the gas spike</title>
+      <description>MXP repairs beat expectations and gas gives back the spike into October expiry; production near 8-month low, storage surplus down to 2.4%; Trump rejects Iran Hormuz proposal, WTI near 6.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-28.mp3" length="7364225" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-09-28.mp3</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fri Sep 25 — Gas spikes on Appalachian force majeure</title>
       <description>Mountaineer Express force majeure drives biggest one-day gas gain since January; 10-yr at 5.11%; US-Iran phased-deal talk eases oil.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-25.mp3" length="7274625" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-09-08.mp3</guid>
       <pubDate>Tue, 08 Sep 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:59</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Mon Sep 7 — Jobs shock puts Fed hike in play</title>
-      <description>Labour Day broad brief: US +162K jobs vs Canada −42K, Fed hike coin flip, OPEC+ holds, gas near , Calgary rain.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-07.mp3" length="6979963" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-09-07.mp3</guid>
-      <pubDate>Mon, 07 Sep 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
