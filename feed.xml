@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Tue Sep 29 — Yields at 2007 highs rattle stocks</title>
+      <description>Ten-year hits 5.25%, stocks slide; oil holds high on Hormuz standoff; gas steadies near $3.10; West Coast pipeline decision Thursday.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-29.mp3" length="7077400" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-09-29.mp3</guid>
+      <pubDate>Tue, 29 Sep 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mon Sep 28 — Pipeline fix unwinds the gas spike</title>
       <description>MXP repairs beat expectations and gas gives back the spike into October expiry; production near 8-month low, storage surplus down to 2.4%; Trump rejects Iran Hormuz proposal, WTI near 6.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-28.mp3" length="7364225" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-09-09.mp3</guid>
       <pubDate>Wed, 09 Sep 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:44</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tue Sep 8 — Gas coiled under $3 as TTF hits 3.5-year high</title>
-      <description>Holiday reopen: HH flat near 2-month highs; storage math ahead of Thursday; TTF record run, WTI ~$94 on Jazan strike and Hormuz corridor talk.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-08.mp3" length="7197825" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-09-08.mp3</guid>
-      <pubDate>Tue, 08 Sep 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
