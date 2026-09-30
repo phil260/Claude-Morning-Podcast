@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Wed Sep 30 — PCE day, quarter-end, US-Iran paper moving</title>
+      <description>PCE lands with Oct hike odds a coin flip; Tehran receives US Hormuz proposal, 40M-bbl SPR release; gas steady above $3; pipeline decision and fuel-tax holiday tomorrow.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-30.mp3" length="6948355" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-09-30.mp3</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tue Sep 29 — Yields at 2007 highs rattle stocks</title>
       <description>Ten-year hits 5.25%, stocks slide; oil holds high on Hormuz standoff; gas steadies near $3.10; West Coast pipeline decision Thursday.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-29.mp3" length="7077400" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-09-10.mp3</guid>
       <pubDate>Thu, 10 Sep 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:46</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Wed Sep 9 — Oil at the door of one hundred as US-Iran tanker war escalates</title>
-      <description>Brent tops $100 on US strikes on Iranian tankers; stocks fall a third day; Canada&#x27;s tariffs take effect; gas quiet under $2.90 with TTF at new highs; Calgary budget leak and Green Line route pick.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-09.mp3" length="7044747" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-09-09.mp3</guid>
-      <pubDate>Wed, 09 Sep 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
