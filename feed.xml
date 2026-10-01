@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Thu Oct 1 — Storage day, gas back below three dollars</title>
+      <description>Nov Henry Hub ~$2.96 ahead of EIA print (consensus +63 Bcf, FM-distorted week); MXP round trip complete; Carney pipeline decision today.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-01.mp3" length="7315637" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-10-01.mp3</guid>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Wed Sep 30 — PCE day, quarter-end, US-Iran paper moving</title>
       <description>PCE lands with Oct hike odds a coin flip; Tehran receives US Hormuz proposal, 40M-bbl SPR release; gas steady above $3; pipeline decision and fuel-tax holiday tomorrow.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-30.mp3" length="6948355" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-09-14.mp3</guid>
       <pubDate>Mon, 14 Sep 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:11</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Thu Sep 10 — Gas breaks down into storage day</title>
-      <description>Henry Hub slides 6% on cooler 10-15 day models into an EIA print with no consensus; TTF near 4-year highs, Brent above $100 as the tanker war widens.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-10.mp3" length="7063555" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-09-10.mp3</guid>
-      <pubDate>Thu, 10 Sep 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
