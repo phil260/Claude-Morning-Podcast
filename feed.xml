@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Fri Oct 2 — Jobs day; Pacific Link designated</title>
+      <description>US payrolls land mid-commute with the Fed at a coin flip; Ottawa names Pacific Link Canada&#x27;s first national-interest project; gas at a one-week low after an on-consensus 64 Bcf build; oil drops 3% on stock-release talks.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-02.mp3" length="7167523" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-10-02.mp3</guid>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thu Oct 1 — Storage day, gas back below three dollars</title>
       <description>Nov Henry Hub ~$2.96 ahead of EIA print (consensus +63 Bcf, FM-distorted week); MXP round trip complete; Carney pipeline decision today.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-01.mp3" length="7315637" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-09-15.mp3</guid>
       <pubDate>Tue, 15 Sep 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:57</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Mon Sep 14 — Gas rebounds on record feedgas, warm shift</title>
-      <description>Oct Henry Hub +2.5% to $2.89 on 19.6 Bcf/d feedgas and a warmer CPC outlook; Fed hike week, ~90% odds.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-14.mp3" length="7313547" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-09-14.mp3</guid>
-      <pubDate>Mon, 14 Sep 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
