@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Mon Oct 5 — Gas back above three dollars on first cool shot</title>
+      <description>Nov Henry Hub gaps above $3 as weekend models add Oct 12-15 cool shot; storage surplus narrows to 2.4%; OPEC+ holds; payrolls shock (+29K); Calgary snow by Saturday.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-05.mp3" length="7031686" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-10-05.mp3</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fri Oct 2 — Jobs day; Pacific Link designated</title>
       <description>US payrolls land mid-commute with the Fed at a coin flip; Ottawa names Pacific Link Canada&#x27;s first national-interest project; gas at a one-week low after an on-consensus 64 Bcf build; oil drops 3% on stock-release talks.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-02.mp3" length="7167523" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-09-16.mp3</guid>
       <pubDate>Wed, 16 Sep 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:02</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tue Sep 15 — Fed opens meeting, first hike in three years looms</title>
-      <description>93% odds of a 25bp hike Wednesday; 10-year at 5%; Brent $106 with Saudi East-West pipeline offline; gas .89 on 19.6 Bcf/d feedgas; NDP upset in Calgary-Shaw.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-15.mp3" length="7171441" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-09-15.mp3</guid>
-      <pubDate>Tue, 15 Sep 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
