@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Tue Oct 6 — Records vs five percent yields</title>
+      <description>Nasdaq and Nvidia at records into 24-year-high yields; Brent settles 00.30 on G7 release; gas holds .07; Alberta referendums two weeks out.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-06.mp3" length="6944437" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-10-06.mp3</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mon Oct 5 — Gas back above three dollars on first cool shot</title>
       <description>Nov Henry Hub gaps above $3 as weekend models add Oct 12-15 cool shot; storage surplus narrows to 2.4%; OPEC+ holds; payrolls shock (+29K); Calgary snow by Saturday.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-05.mp3" length="7031686" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-09-17.mp3</guid>
       <pubDate>Thu, 17 Sep 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:34</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Wed Sep 16 — Fed decision day: first hike in three years expected</title>
-      <description>Fed poised for 25bp hike at noon MT with the 10-year at 5%; WTI above $103 as Saudi East-West stays down; gas holds $2.91; WCS discount widens on Joliet outage.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-16.mp3" length="7224992" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-09-16.mp3</guid>
-      <pubDate>Wed, 16 Sep 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
