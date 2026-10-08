@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Thu Oct 8 — Gas rallies fifth day as Isaias nears Gulf</title>
+      <description>Henry Hub at a two-week high; hurricane landfall Fri/Sat; EIA storage preview +79 Bcf; NGTL already withdrawing; Calgary&#x27;s first snow Saturday.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-08.mp3" length="7212192" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-10-08.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Wed Oct 7 — Emera-ATCO mega-merger redraws Alberta utilities</title>
       <description>Emera combines with Canadian Utilities/ATCO (2B) and Cenovus buys Athabasca (.7B); gas extends above ; S&amp;P record as yields ease; Fed minutes today.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-07.mp3" length="7223686" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-09-21.mp3</guid>
       <pubDate>Mon, 21 Sep 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:13</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Fri Sep 18 — Stocks rally after Fed hike; lean 44 Bcf build</title>
-      <description>Post-hike relief rally, +44 Bcf storage vs 74 avg, Cameron LNG maintenance, Saudi pipeline repair, Calgary&#x27;s $130M surplus vs 20% tax ask.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-18.mp3" length="7399751" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-09-18.mp3</guid>
-      <pubDate>Fri, 18 Sep 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
