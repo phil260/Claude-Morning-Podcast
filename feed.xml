@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Fri Oct 9 — Isaias hits the Gulf; storage fades the gas rally</title>
+      <description>Hurricane Isaias shuts in two-thirds of Gulf oil; 85 Bcf injection cools the gas rally; AI trade&#x27;s revenue fact-check; Canada jobs this morning.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-09.mp3" length="7116061" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-10-09.mp3</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thu Oct 8 — Gas rallies fifth day as Isaias nears Gulf</title>
       <description>Henry Hub at a two-week high; hurricane landfall Fri/Sat; EIA storage preview +79 Bcf; NGTL already withdrawing; Calgary&#x27;s first snow Saturday.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-08.mp3" length="7212192" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-09-22.mp3</guid>
       <pubDate>Tue, 22 Sep 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Mon Sep 21 — Gas holds $2.90 as oil exhales under $100</title>
-      <description>Deep gas: HH ~$2.91 as LNG pull blunts cooler forecasts; storage surplus narrows to ~118 Bcf; record 113.1 Bcf/d supply; WTI under $100, TTF below EUR 80 on de-escalation into UNGA week.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-21.mp3" length="7331833" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-09-21.mp3</guid>
-      <pubDate>Mon, 21 Sep 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
