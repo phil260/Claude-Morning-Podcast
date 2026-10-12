@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Mon Oct 12 — Riyadh attacked, crude bid, loaded week</title>
+      <description>Houthi strikes on Saudi airports kill 12 incl. an American; Brent 06; gas eases to .17 as Isaias fizzles for gas; banks Tue, US CPI Wed; referendum one week out. Happy Thanksgiving.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-12.mp3" length="7206967" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-10-12.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fri Oct 9 — Isaias hits the Gulf; storage fades the gas rally</title>
       <description>Hurricane Isaias shuts in two-thirds of Gulf oil; 85 Bcf injection cools the gas rally; AI trade&#x27;s revenue fact-check; Canada jobs this morning.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-09.mp3" length="7116061" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-09-23.mp3</guid>
       <pubDate>Wed, 23 Sep 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:08</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tue Sep 22 — Stocks at records as oil plunges</title>
-      <description>Nasdaq record on Meta&#x27;s AI surge; WTI drops to low 0s on Saudi supply rebound; gas under .85; BoC October hike odds ~60%.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-22.mp3" length="7118151" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-09-22.mp3</guid>
-      <pubDate>Tue, 22 Sep 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
