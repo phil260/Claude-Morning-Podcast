@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Tue Oct 13 — Gas fades as Gulf supply returns</title>
+      <description>Deep gas: two-day HH fade on Isaias restarts and soft feedgas; NGTL&#x27;s first furnace pull; Saudi strikes Houthis; banks kick off earnings.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-13.mp3" length="7394004" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-10-13.mp3</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mon Oct 12 — Riyadh attacked, crude bid, loaded week</title>
       <description>Houthi strikes on Saudi airports kill 12 incl. an American; Brent 06; gas eases to .17 as Isaias fizzles for gas; banks Tue, US CPI Wed; referendum one week out. Happy Thanksgiving.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-12.mp3" length="7206967" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-09-24.mp3</guid>
       <pubDate>Thu, 24 Sep 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:24</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Wed Sep 23 — Gas back above three dollars</title>
-      <description>Henry Hub tops $3 for the first time since July; Nasdaq record, oil&#x27;s five-day slide on UNGA diplomacy; Alberta suspends fuel tax; Green Line downtown route confirmed.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-23.mp3" length="7286902" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-09-23.mp3</guid>
-      <pubDate>Wed, 23 Sep 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
