@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Wed Oct 14 — CPI day: inflation re-accelerating, Dec hike priced</title>
+      <description>Sept CPI at 6:30 MT (cons 3.6%); gas flat at $3.17 with AECO back at $1.24; stocks slip on mixed banks and memory chips; TTF at 45-month high; ATCO Yellowhead $3B pipeline; referendum Monday.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-14.mp3" length="7307539" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-10-14.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tue Oct 13 — Gas fades as Gulf supply returns</title>
       <description>Deep gas: two-day HH fade on Isaias restarts and soft feedgas; NGTL&#x27;s first furnace pull; Saudi strikes Houthis; banks kick off earnings.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-13.mp3" length="7394004" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-09-25.mp3</guid>
       <pubDate>Fri, 25 Sep 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:07</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Thu Sep 24 — Storage day with Henry Hub at 11-week highs</title>
-      <description>HH ~$3.05 into a consensus +53 Bcf EIA print; lean-build streak, LNG ~18 Bcf/d, AECO direction, Calgary&#x27;s first furnace mornings.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-24.mp3" length="7440502" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-09-24.mp3</guid>
-      <pubDate>Thu, 24 Sep 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
