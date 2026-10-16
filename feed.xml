@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Fri Oct 16 — Rotation day; storage surprise fades</title>
+      <description>AI selloff vs everything-else rally, TSX record; gas gives back the 67-Bcf pop; Hormuz grinds tighter; referendum Monday.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-16.mp3" length="7316421" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-10-16.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thu Oct 15 — Gas bid at three-week high into storage print</title>
       <description>Nov Henry Hub ~$3.25 ahead of EIA (cons ~+77 vs +90 5-yr); NGTL linepack still ~1 Bcf under target; hot US CPI puts an October hike at a coin flip; Houthi attacks escalate, two ships sunk in Hormuz.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-15.mp3" length="6931637" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-09-29.mp3</guid>
       <pubDate>Tue, 29 Sep 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:47</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Mon Sep 28 — Pipeline fix unwinds the gas spike</title>
-      <description>MXP repairs beat expectations and gas gives back the spike into October expiry; production near 8-month low, storage surplus down to 2.4%; Trump rejects Iran Hormuz proposal, WTI near 6.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-28.mp3" length="7364225" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-09-28.mp3</guid>
-      <pubDate>Mon, 28 Sep 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
