@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Mon Oct 19 — Gas at two-week low as mild stretch bites</title>
+      <description>Nov Henry Hub breaks its October uptrend to ~$3.08; tight storage vs mild-to-Oct-29; NGTL linepack still ~1 Bcf under; Alberta votes today.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-19.mp3" length="7148453" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-10-19.mp3</guid>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fri Oct 16 — Rotation day; storage surprise fades</title>
       <description>AI selloff vs everything-else rally, TSX record; gas gives back the 67-Bcf pop; Hormuz grinds tighter; referendum Monday.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-16.mp3" length="7316421" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-09-30.mp3</guid>
       <pubDate>Wed, 30 Sep 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:34</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tue Sep 29 — Yields at 2007 highs rattle stocks</title>
-      <description>Ten-year hits 5.25%, stocks slide; oil holds high on Hormuz standoff; gas steadies near $3.10; West Coast pipeline decision Thursday.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-29.mp3" length="7077400" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-09-29.mp3</guid>
-      <pubDate>Tue, 29 Sep 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
