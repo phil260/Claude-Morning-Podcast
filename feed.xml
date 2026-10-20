@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Tue Oct 20 — Alberta votes to stay, 77-23</title>
+      <description>Referendum decisively rejects separation; HH ~$3.01 two-week low; Canada CPI 3.1% with BoC 8 days out; oil off highs on Russia waiver vs Hormuz mine strike.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-20.mp3" length="7384861" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-10-20.mp3</guid>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mon Oct 19 — Gas at two-week low as mild stretch bites</title>
       <description>Nov Henry Hub breaks its October uptrend to ~$3.08; tight storage vs mild-to-Oct-29; NGTL linepack still ~1 Bcf under; Alberta votes today.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-19.mp3" length="7148453" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-10-01.mp3</guid>
       <pubDate>Thu, 01 Oct 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:11</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Wed Sep 30 — PCE day, quarter-end, US-Iran paper moving</title>
-      <description>PCE lands with Oct hike odds a coin flip; Tehran receives US Hormuz proposal, 40M-bbl SPR release; gas steady above $3; pipeline decision and fuel-tax holiday tomorrow.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-09-30.mp3" length="6948355" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-09-30.mp3</guid>
-      <pubDate>Wed, 30 Sep 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
