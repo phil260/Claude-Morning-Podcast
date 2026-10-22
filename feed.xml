@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Thu Oct 22 — Gas at four-week low into storage print</title>
+      <description>Nov HH ~$2.75 after 4 down days; 10th straight tight build expected; NGTL linepack rebuilding; Calgary&#x27;s first snow; Brent 5-month high on Saudi attacks.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-22.mp3" length="7237531" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-10-22.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Wed Oct 21 — Big Tech earnings day, Tesla-SpaceX merger talk</title>
       <description>Meta and Tesla report tonight; SpaceX blowout and merger committees; oil re-bid near $100 on Iran; gas under $3; Smith&#x27;s post-referendum address.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-21.mp3" length="7414641" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-10-05.mp3</guid>
       <pubDate>Mon, 05 Oct 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:43</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Fri Oct 2 — Jobs day; Pacific Link designated</title>
-      <description>US payrolls land mid-commute with the Fed at a coin flip; Ottawa names Pacific Link Canada&#x27;s first national-interest project; gas at a one-week low after an on-consensus 64 Bcf build; oil drops 3% on stock-release talks.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-02.mp3" length="7167523" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-10-02.mp3</guid>
-      <pubDate>Fri, 02 Oct 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
