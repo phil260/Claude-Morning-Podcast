@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Fri Oct 23 — AI rout deepens, oil knocks on one hundred</title>
+      <description>Nasdaq&#x27;s worst day since June on AI funding fears; Brent through $114; gas shrugs off a 10th tight build; Calgary&#x27;s 26-degree weekend swing.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-23.mp3" length="6999555" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-10-23.mp3</guid>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thu Oct 22 — Gas at four-week low into storage print</title>
       <description>Nov HH ~$2.75 after 4 down days; 10th straight tight build expected; NGTL linepack rebuilding; Calgary&#x27;s first snow; Brent 5-month high on Saudi attacks.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-22.mp3" length="7237531" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-10-06.mp3</guid>
       <pubDate>Tue, 06 Oct 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:34</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Mon Oct 5 — Gas back above three dollars on first cool shot</title>
-      <description>Nov Henry Hub gaps above $3 as weekend models add Oct 12-15 cool shot; storage surplus narrows to 2.4%; OPEC+ holds; payrolls shock (+29K); Calgary snow by Saturday.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-05.mp3" length="7031686" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-10-05.mp3</guid>
-      <pubDate>Mon, 05 Oct 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
