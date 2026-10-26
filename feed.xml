@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Mon Oct 26 — EQT buys Range as gas hits two-year low</title>
+      <description>EQT-Range $50B+ all-stock deal; Henry Hub ~$2.52 lowest since Oct 2024 into Tuesday expiry; GDSR withdrawal and Alberta&#x27;s first cold week; oil eases on Iran diplomacy; Fed and BoC Wednesday.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-26.mp3" length="7389302" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-10-26.mp3</guid>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fri Oct 23 — AI rout deepens, oil knocks on one hundred</title>
       <description>Nasdaq&#x27;s worst day since June on AI funding fears; Brent through $114; gas shrugs off a 10th tight build; Calgary&#x27;s 26-degree weekend swing.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-23.mp3" length="6999555" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-10-07.mp3</guid>
       <pubDate>Wed, 07 Oct 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:02</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tue Oct 6 — Records vs five percent yields</title>
-      <description>Nasdaq and Nvidia at records into 24-year-high yields; Brent settles 00.30 on G7 release; gas holds .07; Alberta referendums two weeks out.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-06.mp3" length="6944437" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-10-06.mp3</guid>
-      <pubDate>Tue, 06 Oct 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
