@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Tue Oct 27 — Anthropic files for Nasdaq IPO; BoC hike eyed</title>
+      <description>Anthropic files to list as ANT; Fed meets, BoC seen hiking to 2.50% Wed; gas at two-year low into Nov expiry; Brent near $116; TTF highest since 2022.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-27.mp3" length="6972127" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-10-27.mp3</guid>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mon Oct 26 — EQT buys Range as gas hits two-year low</title>
       <description>EQT-Range $50B+ all-stock deal; Henry Hub ~$2.52 lowest since Oct 2024 into Tuesday expiry; GDSR withdrawal and Alberta&#x27;s first cold week; oil eases on Iran diplomacy; Fed and BoC Wednesday.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-26.mp3" length="7389302" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-10-08.mp3</guid>
       <pubDate>Thu, 08 Oct 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:01</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Wed Oct 7 — Emera-ATCO mega-merger redraws Alberta utilities</title>
-      <description>Emera combines with Canadian Utilities/ATCO (2B) and Cenovus buys Athabasca (.7B); gas extends above ; S&amp;P record as yields ease; Fed minutes today.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-07.mp3" length="7223686" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-10-07.mp3</guid>
-      <pubDate>Wed, 07 Oct 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
