@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Wed Oct 28 — BoC hike eyed, Fed decides, Ras Tanura struck</title>
+      <description>Central-bank double-header: BoC seen hiking to 2.50%, Fed expected to hold; Houthi strike claim on Saudi&#x27;s biggest refinery keeps Brent above $115; November gas expires at $2.66.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-28.mp3" length="7158380" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-10-28.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tue Oct 27 — Anthropic files for Nasdaq IPO; BoC hike eyed</title>
       <description>Anthropic files to list as ANT; Fed meets, BoC seen hiking to 2.50% Wed; gas at two-year low into Nov expiry; Brent near $116; TTF highest since 2022.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-27.mp3" length="6972127" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-10-09.mp3</guid>
       <pubDate>Fri, 09 Oct 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Thu Oct 8 — Gas rallies fifth day as Isaias nears Gulf</title>
-      <description>Henry Hub at a two-week high; hurricane landfall Fri/Sat; EIA storage preview +79 Bcf; NGTL already withdrawing; Calgary&#x27;s first snow Saturday.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-08.mp3" length="7212192" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-10-08.mp3</guid>
-      <pubDate>Thu, 08 Oct 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
