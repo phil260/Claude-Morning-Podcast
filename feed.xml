@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Thu Oct 29 — November expires at $2.817, December takes prompt; EIA day</title>
+      <description>Deep gas: Nov expiry +12c, Dec prompt $3.03; EIA consensus +75 Bcf; feedgas back above 20; Freeport trip; NGTL linepack slips; Fed holds, BoC hikes.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-29.mp3" length="7155245" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-10-29.mp3</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Wed Oct 28 — BoC hike eyed, Fed decides, Ras Tanura struck</title>
       <description>Central-bank double-header: BoC seen hiking to 2.50%, Fed expected to hold; Houthi strike claim on Saudi&#x27;s biggest refinery keeps Brent above $115; November gas expires at $2.66.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-28.mp3" length="7158380" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-10-12.mp3</guid>
       <pubDate>Mon, 12 Oct 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Fri Oct 9 — Isaias hits the Gulf; storage fades the gas rally</title>
-      <description>Hurricane Isaias shuts in two-thirds of Gulf oil; 85 Bcf injection cools the gas rally; AI trade&#x27;s revenue fact-check; Canada jobs this morning.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-09.mp3" length="7116061" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-10-09.mp3</guid>
-      <pubDate>Fri, 09 Oct 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
