@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Mon Nov 2 — Gas steady at $2.90; record-early vortex split looms</title>
+      <description>December holds ~$2.90 after the +80 Bcf surprise; models forecast the earliest stratospheric warming on record, centered Nov 4; OPEC+ holds; Calgary sunny all week.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-02.mp3" length="7202788" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-11-02.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fri Oct 30 — Alphabet&#x27;s $500B stumble sorts the AI trade</title>
       <description>AI sorting: Alphabet worst day ever, Amazon &amp; Intel slide late, breadth rallies; EIA +80 ends tight-build streak; BoC aftermath; TTF &gt;EUR100; sunny Halloween.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-30.mp3" length="7340976" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-10-14.mp3</guid>
       <pubDate>Wed, 14 Oct 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:10</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tue Oct 13 — Gas fades as Gulf supply returns</title>
-      <description>Deep gas: two-day HH fade on Isaias restarts and soft feedgas; NGTL&#x27;s first furnace pull; Saudi strikes Houthis; banks kick off earnings.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-13.mp3" length="7394004" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-10-13.mp3</guid>
-      <pubDate>Tue, 13 Oct 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
