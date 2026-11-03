@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Tue Nov 3 — Election day; oil whipsaws on Iran talks</title>
+      <description>Brent&#x27;s 7.6% plunge on US-Iran talk hopes and the overnight Qeshm rebound; Dec gas at $2.86; Direct Energy&#x27;s $1.89/GJ November rate; midterms, AMD and the earnings bar.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-03.mp3" length="7403670" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-11-03.mp3</guid>
+      <pubDate>Tue, 03 Nov 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mon Nov 2 — Gas steady at $2.90; record-early vortex split looms</title>
       <description>December holds ~$2.90 after the +80 Bcf surprise; models forecast the earliest stratospheric warming on record, centered Nov 4; OPEC+ holds; Calgary sunny all week.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-02.mp3" length="7202788" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-10-15.mp3</guid>
       <pubDate>Thu, 15 Oct 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:33</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Wed Oct 14 — CPI day: inflation re-accelerating, Dec hike priced</title>
-      <description>Sept CPI at 6:30 MT (cons 3.6%); gas flat at $3.17 with AECO back at $1.24; stocks slip on mixed banks and memory chips; TTF at 45-month high; ATCO Yellowhead $3B pipeline; referendum Monday.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-14.mp3" length="7307539" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-10-14.mp3</guid>
-      <pubDate>Wed, 14 Oct 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
