@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Thu Nov 5 — Gas firms on output drop ahead of EIA</title>
+      <description>December holds .91 as Lower-48 output slips; EIA expected +84 Bcf; Democrats sweep the midterms; Iran floats a 48-hour Hormuz reopening.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-05.mp3" length="7183457" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-11-05.mp3</guid>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Wed Nov 4 — Democrats sweep Congress; futures whipsaw</title>
       <description>Dems take House and Senate; futures -2.4% to +0.9% round trip; HH ~$2.90 on warm Nov; WSJ: US floats Russian gas via Ukraine; AB budget Thu.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-04.mp3" length="7476812" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-10-19.mp3</guid>
       <pubDate>Mon, 19 Oct 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:54</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Fri Oct 16 — Rotation day; storage surprise fades</title>
-      <description>AI selloff vs everything-else rally, TSX record; gas gives back the 67-Bcf pop; Hormuz grinds tighter; referendum Monday.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-16.mp3" length="7316421" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-10-16.mp3</guid>
-      <pubDate>Fri, 16 Oct 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
