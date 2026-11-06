@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Fri Nov 6 — Worst market day since April; gas tops $3</title>
+      <description>S&amp;P -4.4% as AI trade reprices post-election; EIA +77 Bcf miss, Henry Hub back over $3; Canada budget leans into pipelines; Brent set for worst week since Covid.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-06.mp3" length="7624404" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-11-06.mp3</guid>
+      <pubDate>Fri, 06 Nov 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thu Nov 5 — Gas firms on output drop ahead of EIA</title>
       <description>December holds .91 as Lower-48 output slips; EIA expected +84 Bcf; Democrats sweep the midterms; Iran floats a 48-hour Hormuz reopening.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-05.mp3" length="7183457" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-10-20.mp3</guid>
       <pubDate>Tue, 20 Oct 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:18</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Mon Oct 19 — Gas at two-week low as mild stretch bites</title>
-      <description>Nov Henry Hub breaks its October uptrend to ~$3.08; tight storage vs mild-to-Oct-29; NGTL linepack still ~1 Bcf under; Alberta votes today.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-19.mp3" length="7148453" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-10-19.mp3</guid>
-      <pubDate>Mon, 19 Oct 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
