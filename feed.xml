@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Mon Nov 9 — Gas reclaims three dollars on cold risk, record LNG</title>
+      <description>Dec Henry Hub back above $3 on colder late-November forecasts, record LNG feedgas and falling output; EIA storage moves to Friday; Brent ~$96 extends worst week since 2020; jobs blowout tees up a December hike.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-09.mp3" length="7438412" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-11-09.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fri Nov 6 — Worst market day since April; gas tops $3</title>
       <description>S&amp;P -4.4% as AI trade reprices post-election; EIA +77 Bcf miss, Henry Hub back over $3; Canada budget leans into pipelines; Brent set for worst week since Covid.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-06.mp3" length="7624404" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-10-21.mp3</guid>
       <pubDate>Wed, 21 Oct 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:21</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tue Oct 20 — Alberta votes to stay, 77-23</title>
-      <description>Referendum decisively rejects separation; HH ~$3.01 two-week low; Canada CPI 3.1% with BoC 8 days out; oil off highs on Russia waiver vs Hormuz mine strike.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-20.mp3" length="7384861" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-10-20.mp3</guid>
-      <pubDate>Tue, 20 Oct 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
