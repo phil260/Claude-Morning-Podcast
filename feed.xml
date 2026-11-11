@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Wed Nov 11 — Hot CPI locks December hike; tens kiss five percent</title>
+      <description>CPI +0.4% locks a December Fed hike (11% odds of 50bp), 10-yr above 5% intraday; futures rebound on CoreWeave; HH settles .296 seven-week high; Brent briefly under 0; Calgary&#x27;s 0B debt arc.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-11.mp3" length="7063033" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-11-11.mp3</guid>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tue Nov 10 — Best S&amp;P day since April; gas up seven percent</title>
       <description>Stocks soar as oil crashes on Iran de-escalation hopes; Dec Henry Hub +7% near $3.21; CPI today with a December hike priced; Abu Dhabi Russia-Ukraine talks open.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-10.mp3" length="7090723" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-10-23.mp3</guid>
       <pubDate>Fri, 23 Oct 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:39</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Thu Oct 22 — Gas at four-week low into storage print</title>
-      <description>Nov HH ~$2.75 after 4 down days; 10th straight tight build expected; NGTL linepack rebuilding; Calgary&#x27;s first snow; Brent 5-month high on Saudi attacks.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-22.mp3" length="7237531" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-10-22.mp3</guid>
-      <pubDate>Thu, 22 Oct 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
