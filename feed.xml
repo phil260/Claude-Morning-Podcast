@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Fri Nov 13 — Huang out at Nvidia, hike priced, oil jumps</title>
+      <description>Broad: Nvidia CEO resigns, 10-yr above 5% with Dec hike priced, Brent +3.3% on Houthi attacks; HH +4% to $3.34, storage report delayed to today.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-13.mp3" length="7251114" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-11-13.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thu Nov 12 — Henry Hub highest close since February</title>
       <description>Dec HH settles $3.353 (+2%, ~12% on the week) on short covering and cold; EIA storage Friday; LNG Canada two-train maintenance; CPC warm flip is the risk.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-12.mp3" length="6954102" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-10-27.mp3</guid>
       <pubDate>Tue, 27 Oct 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:37</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Mon Oct 26 — EQT buys Range as gas hits two-year low</title>
-      <description>EQT-Range $50B+ all-stock deal; Henry Hub ~$2.52 lowest since Oct 2024 into Tuesday expiry; GDSR withdrawal and Alberta&#x27;s first cold week; oil eases on Iran diplomacy; Fed and BoC Wednesday.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-26.mp3" length="7389302" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-10-26.mp3</guid>
-      <pubDate>Mon, 26 Oct 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
