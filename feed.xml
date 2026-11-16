@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Mon Nov 16 — Gas fades into the cold week, record LNG</title>
+      <description>Dec Henry Hub slips ~3% to the low $3.20s into the season&#x27;s first cold snap; record 21.2 Bcf/d LNG feedgas; +61 Bcf build widens surplus to +2%; LNG Canada maintenance keeps AECO heavy.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-16.mp3" length="7444943" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-11-16.mp3</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fri Nov 13 — Huang out at Nvidia, hike priced, oil jumps</title>
       <description>Broad: Nvidia CEO resigns, 10-yr above 5% with Dec hike priced, Brent +3.3% on Houthi attacks; HH +4% to $3.34, storage report delayed to today.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-13.mp3" length="7251114" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-10-28.mp3</guid>
       <pubDate>Wed, 28 Oct 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:55</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tue Oct 27 — Anthropic files for Nasdaq IPO; BoC hike eyed</title>
-      <description>Anthropic files to list as ANT; Fed meets, BoC seen hiking to 2.50% Wed; gas at two-year low into Nov expiry; Brent near $116; TTF highest since 2022.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-27.mp3" length="6972127" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-10-27.mp3</guid>
-      <pubDate>Tue, 27 Oct 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
