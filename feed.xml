@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Tue Nov 17 — Nvidia tonight as tech slide deepens</title>
+      <description>Tech selloff round three ahead of Nvidia&#x27;s post-Huang print; Dec Henry Hub settles 3.12; CNQ buys Advantage for C$2.53B; Crimea Bridge span down; Calgary snowfall warning.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-17.mp3" length="7289253" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-11-17.mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mon Nov 16 — Gas fades into the cold week, record LNG</title>
       <description>Dec Henry Hub slips ~3% to the low $3.20s into the season&#x27;s first cold snap; record 21.2 Bcf/d LNG feedgas; +61 Bcf build widens surplus to +2%; LNG Canada maintenance keeps AECO heavy.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-16.mp3" length="7444943" type="audio/mpeg"/>
@@ -125,15 +134,6 @@
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-29.mp3" length="7155245" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-10-29.mp3</guid>
       <pubDate>Thu, 29 Oct 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:55</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Wed Oct 28 — BoC hike eyed, Fed decides, Ras Tanura struck</title>
-      <description>Central-bank double-header: BoC seen hiking to 2.50%, Fed expected to hold; Houthi strike claim on Saudi&#x27;s biggest refinery keeps Brent above $115; November gas expires at $2.66.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-28.mp3" length="7158380" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-10-28.mp3</guid>
-      <pubDate>Wed, 28 Oct 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
