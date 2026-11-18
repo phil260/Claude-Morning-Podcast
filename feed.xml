@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Wed Nov 18 — Nvidia beats, Anthropic prices tonight</title>
+      <description>Nvidia clears the bar without Huang, futures rebound; Dec HH +2.3% to 3.195; TC Energy&#x27;s Alberta Growth Connector; Calgary morning snow.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-18.mp3" length="7358216" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-11-18.mp3</guid>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tue Nov 17 — Nvidia tonight as tech slide deepens</title>
       <description>Tech selloff round three ahead of Nvidia&#x27;s post-Huang print; Dec Henry Hub settles 3.12; CNQ buys Advantage for C$2.53B; Crimea Bridge span down; Calgary snowfall warning.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-17.mp3" length="7289253" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-10-30.mp3</guid>
       <pubDate>Fri, 30 Oct 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:14</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Thu Oct 29 — November expires at $2.817, December takes prompt; EIA day</title>
-      <description>Deep gas: Nov expiry +12c, Dec prompt $3.03; EIA consensus +75 Bcf; feedgas back above 20; Freeport trip; NGTL linepack slips; Fed holds, BoC hikes.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-29.mp3" length="7155245" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-10-29.mp3</guid>
-      <pubDate>Thu, 29 Oct 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
