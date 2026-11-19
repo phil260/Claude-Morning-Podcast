@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Thu Nov 19 — Gas rips on cold flip into storage day</title>
+      <description>Dec Henry Hub up ~5% to ~.37, highest since late January; EIA +24 Bcf bogey; HDD forecast jumps; Calgary deep freeze; Anthropic trades today.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-19.mp3" length="6972127" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-11-19.mp3</guid>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Wed Nov 18 — Nvidia beats, Anthropic prices tonight</title>
       <description>Nvidia clears the bar without Huang, futures rebound; Dec HH +2.3% to 3.195; TC Energy&#x27;s Alberta Growth Connector; Calgary morning snow.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-18.mp3" length="7358216" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-11-02.mp3</guid>
       <pubDate>Mon, 02 Nov 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Fri Oct 30 — Alphabet&#x27;s $500B stumble sorts the AI trade</title>
-      <description>AI sorting: Alphabet worst day ever, Amazon &amp; Intel slide late, breadth rallies; EIA +80 ends tight-build streak; BoC aftermath; TTF &gt;EUR100; sunny Halloween.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-10-30.mp3" length="7340976" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-10-30.mp3</guid>
-      <pubDate>Fri, 30 Oct 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
