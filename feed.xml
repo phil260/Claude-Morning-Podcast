@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Mon Nov 23 — Dec gas drops 4% into Wednesday expiry-storage double</title>
+      <description>December HH slides ~4% overnight to ~$3.28 after a third straight weekly gain; Wednesday brings Dec expiry plus an early EIA print with the season&#x27;s first withdrawal in play; FERC clears Sabine Pass expansion; TotalEnergies buys deeper into Anadarko gas.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-23.mp3" length="7587310" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-11-23.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fri Nov 20 — Selloff deepens, loonie at 19-month low</title>
       <description>S&amp;P -2% / TSX six-month low / CAD weakest since Apr 2025 as Fed hike fully priced; EIA +20 Bcf smaller than expected, Dec HH mid-$3.30s; Brent $92 on 3rd weekly decline; Alberta bike-lane bill.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-20.mp3" length="6986233" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-11-04.mp3</guid>
       <pubDate>Wed, 04 Nov 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tue Nov 3 — Election day; oil whipsaws on Iran talks</title>
-      <description>Brent&#x27;s 7.6% plunge on US-Iran talk hopes and the overnight Qeshm rebound; Dec gas at $2.86; Direct Energy&#x27;s $1.89/GJ November rate; midterms, AMD and the earnings bar.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-03.mp3" length="7403670" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-11-03.mp3</guid>
-      <pubDate>Tue, 03 Nov 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
