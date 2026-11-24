@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Tue Nov 24 — Huang back, Nasdaq&#x27;s best day since April</title>
+      <description>Nvidia reinstates Jensen Huang and the S&amp;P jumps 4.7%; gas tumbles ~7% on vanished heating demand; Brent below $89 on Iran diplomacy; Calgary budget week.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-24.mp3" length="7201482" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-11-24.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mon Nov 23 — Dec gas drops 4% into Wednesday expiry-storage double</title>
       <description>December HH slides ~4% overnight to ~$3.28 after a third straight weekly gain; Wednesday brings Dec expiry plus an early EIA print with the season&#x27;s first withdrawal in play; FERC clears Sabine Pass expansion; TotalEnergies buys deeper into Anadarko gas.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-23.mp3" length="7587310" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-11-05.mp3</guid>
       <pubDate>Thu, 05 Nov 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:58</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Wed Nov 4 — Democrats sweep Congress; futures whipsaw</title>
-      <description>Dems take House and Senate; futures -2.4% to +0.9% round trip; HH ~$2.90 on warm Nov; WSJ: US floats Russian gas via Ukraine; AB budget Thu.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-04.mp3" length="7476812" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-11-04.mp3</guid>
-      <pubDate>Wed, 04 Nov 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
