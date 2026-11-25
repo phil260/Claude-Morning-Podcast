@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Wed Nov 25 — Tech sells off again; Dow tops 50,000; gas braces for early EIA print</title>
+      <description>Nasdaq down again as Dow crosses 50,000; December gas expiry and first storage draw of the season expected today; Zelensky pushes four-way talks; Calgary budget fight.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-25.mp3" length="7501106" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-11-25.mp3</guid>
+      <pubDate>Wed, 25 Nov 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tue Nov 24 — Huang back, Nasdaq&#x27;s best day since April</title>
       <description>Nvidia reinstates Jensen Huang and the S&amp;P jumps 4.7%; gas tumbles ~7% on vanished heating demand; Brent below $89 on Iran diplomacy; Calgary budget week.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-24.mp3" length="7201482" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-11-06.mp3</guid>
       <pubDate>Fri, 06 Nov 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:42</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Thu Nov 5 — Gas firms on output drop ahead of EIA</title>
-      <description>December holds .91 as Lower-48 output slips; EIA expected +84 Bcf; Democrats sweep the midterms; Iran floats a 48-hour Hormuz reopening.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-05.mp3" length="7183457" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-11-05.mp3</guid>
-      <pubDate>Thu, 05 Nov 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>11:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
