@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Thu Nov 26 — Dow&#x27;s 1,100-point reversal; first gas draw</title>
+      <description>US Thanksgiving broad brief: hot core PCE locks a Dec Fed hike, Dow erases an 1,100-pt loss, EIA first draw -24 Bcf, Houthis hit Ras Tanura, Calgary budget week.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-26.mp3" length="7385384" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-11-26.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>12:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Wed Nov 25 — Tech sells off again; Dow tops 50,000; gas braces for early EIA print</title>
       <description>Nasdaq down again as Dow crosses 50,000; December gas expiry and first storage draw of the season expected today; Zelensky pushes four-way talks; Calgary budget fight.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-25.mp3" length="7501106" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-11-09.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 06:00:00 -0600</pubDate>
       <itunes:duration>12:23</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Fri Nov 6 — Worst market day since April; gas tops $3</title>
-      <description>S&amp;P -4.4% as AI trade reprices post-election; EIA +77 Bcf miss, Henry Hub back over $3; Canada budget leans into pipelines; Brent set for worst week since Covid.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-06.mp3" length="7624404" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-11-06.mp3</guid>
-      <pubDate>Fri, 06 Nov 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
