@@ -12,6 +12,15 @@
     <itunes:category text="Business"/>
     <image><url>https://phil260.github.io/Claude-Morning-Podcast/cover.png</url><title>Morning Gas &amp; Energy Brief</title><link>https://phil260.github.io/Claude-Morning-Podcast/</link></image>
     <item>
+      <title>Fri Nov 27 — January holds $3.62 after first storage draw</title>
+      <description>Deep gas: first draw of −24 Bcf, record LNG feedgas, warm CPC maps; Brent tops $96 before Sunday&#x27;s OPEC+; Lukoil International sold to US-led group.</description>
+      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-27.mp3" length="6946004" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-11-27.mp3</guid>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 -0600</pubDate>
+      <itunes:duration>11:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thu Nov 26 — Dow&#x27;s 1,100-point reversal; first gas draw</title>
       <description>US Thanksgiving broad brief: hot core PCE locks a Dec Fed hike, Dow erases an 1,100-pt loss, EIA first draw -24 Bcf, Houthis hit Ras Tanura, Calgary budget week.</description>
       <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-26.mp3" length="7385384" type="audio/mpeg"/>
@@ -126,15 +135,6 @@
       <guid isPermaLink="false">brief-2026-11-10.mp3</guid>
       <pubDate>Tue, 10 Nov 2026 06:00:00 -0600</pubDate>
       <itunes:duration>11:49</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Mon Nov 9 — Gas reclaims three dollars on cold risk, record LNG</title>
-      <description>Dec Henry Hub back above $3 on colder late-November forecasts, record LNG feedgas and falling output; EIA storage moves to Friday; Brent ~$96 extends worst week since 2020; jobs blowout tees up a December hike.</description>
-      <enclosure url="https://phil260.github.io/Claude-Morning-Podcast/episodes/brief-2026-11-09.mp3" length="7438412" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-2026-11-09.mp3</guid>
-      <pubDate>Mon, 09 Nov 2026 06:00:00 -0600</pubDate>
-      <itunes:duration>12:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
